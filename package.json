@@ -1,0 +1,14 @@
+{
+	"name": "Hearthstone Bot",
+	"version": "1.0.0",
+	"description": "Hearthstone Bot that shows card when you ask for it",
+	"main": "bot.js",
+	"author": "Nster98",
+	"dependencies": {
+		"discord.js": "^11.5.1",
+		"fs": "0.0.1-security",
+		"jquery": "^3.4.1",
+		"node-fetch": "^2.6.0",
+		"unirest": "^0.6.0"
+	}
+}
